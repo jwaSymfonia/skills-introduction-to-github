@@ -19,6 +19,10 @@ In this exercise, you will:
 3. Open a pull request
 4. Merge your pull request
 
+### Project Example
+
+If you'd like to see an example of what you'll create during this exercise, check out the [project-example](project-example/) directory. It contains a sample profile README that you can use as inspiration for your own!
+
 ### How to start this exercise
 
 Simply copy the exercise to your account, then give your favorite Octocat (Mona) **about 20 seconds** to prepare the first lesson, then **refresh the page**.
